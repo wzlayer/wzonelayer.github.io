@@ -3,10 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: My Blog
 subtitle:
-description:
-author: John Doe
+description: Welcome to my site!
+author: WzoneLayer
+avatar: https://avatars1.githubusercontent.com/u/3718679?v=3&u=44a7f9d7a650553f56f2ebf8d269f6aac19cbf26&s=140
 language: zh-Hans
 timezone:
 
