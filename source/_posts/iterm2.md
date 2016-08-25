@@ -22,3 +22,7 @@ tags:
 字体下载地址[https://github.com/powerline/fonts](https://github.com/powerline/fonts)<br />
 安装`sh install.sh`<br />
 ![](../img/iterm2_zsh_font_powerline.jpg)
+
+### Shorter prompt style
+By default, your prompt will now show “user@hostname” in the prompt. 如果要去掉这个前缀，需要在`.zshrc`文件中添加设置。
+`export DEFAULT_USER="zhulingjun"`，用户名可以通过whoami获取。
